@@ -1,5 +1,5 @@
 ## Hello! I am Vuk R. Nikolic. 
-I am a UX/UI specialist (with a background in agentic engineering) and am currently pursuing my bachelor's degree at York University (BDes 2028). I've created and worked on design systems + frontend frameworks and am eager to gain more experience with both.
+I am a UX/UI specialist (with a background in agentic engineering) currently pursuing my bachelor's degree at York University (BDes 2028). I've created and worked on design systems + frontend frameworks and am eager to gain more experience with both.
 - See more of my work at https://vukrightnow.com
 - Reach me at vuknikolic142@gmail.com
 
